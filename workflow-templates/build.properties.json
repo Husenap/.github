@@ -1,0 +1,6 @@
+{
+  "name": "build workflow",
+  "description": "Generates the CMake project, builds and tests it",
+  "iconName": "cplusplus",
+  "categories": ["C++", "CMake"]
+}
