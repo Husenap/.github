@@ -1,0 +1,6 @@
+{
+  "name": "clang-format workflow",
+  "description": "Runs clang-format on all source files and commits the changes",
+  "iconName": "cplusplus",
+  "categories": ["C++", "CMake"]
+}
